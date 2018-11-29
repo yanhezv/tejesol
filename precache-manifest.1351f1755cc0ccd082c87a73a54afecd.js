@@ -32,6 +32,10 @@ self.__precacheManifest = [
     "url": "/tejesol/img/tejesol-logo-normal.f4555588.png"
   },
   {
+    "revision": "a1471d1d6431c893582a5f6a250db3f9",
+    "url": "/tejesol/fonts/KFOlCnqEu92Fr1MmSU5fBBc-.a1471d1d.woff"
+  },
+  {
     "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
     "url": "/tejesol/fonts/KFOkCnqEu92Fr1MmgVxIIzQ.e9dbbe8a.woff"
   },
@@ -40,20 +44,16 @@ self.__precacheManifest = [
     "url": "/tejesol/fonts/KFOmCnqEu92Fr1Mu4mxM.bafb105b.woff"
   },
   {
-    "revision": "cf6613d1adf490972c557a8e318e0868",
-    "url": "/tejesol/fonts/KFOlCnqEu92Fr1MmWUlfBBc-.cf6613d1.woff"
-  },
-  {
     "revision": "de8b7431b74642e830af4d4f4b513ec9",
     "url": "/tejesol/fonts/KFOlCnqEu92Fr1MmEU9fBBc-.de8b7431.woff"
   },
   {
-    "revision": "a1471d1d6431c893582a5f6a250db3f9",
-    "url": "/tejesol/fonts/KFOlCnqEu92Fr1MmSU5fBBc-.a1471d1d.woff"
+    "revision": "cf6613d1adf490972c557a8e318e0868",
+    "url": "/tejesol/fonts/KFOlCnqEu92Fr1MmWUlfBBc-.cf6613d1.woff"
   },
   {
-    "revision": "ebc1a9790422d0182ab6",
-    "url": "/tejesol/js/app.1921766a.js"
+    "revision": "2a420b45a015fa3a5edf",
+    "url": "/tejesol/js/app.043d42a7.js"
   },
   {
     "revision": "18f28576038f9c454506",
@@ -100,11 +100,11 @@ self.__precacheManifest = [
     "url": "/tejesol/fonts/fa-solid-900.bcb927a7.woff"
   },
   {
-    "revision": "16ea0607650ce6de16646fb5a0e3f8f0",
+    "revision": "33c57c4540cb4b8472b1a925deb79657",
     "url": "/tejesol/index.html"
   },
   {
-    "revision": "ebc1a9790422d0182ab6",
+    "revision": "2a420b45a015fa3a5edf",
     "url": "/tejesol/css/app.eef9b524.css"
   }
 ];

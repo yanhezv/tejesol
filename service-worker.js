@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tejesol/precache-manifest.d3d5af121e1742b1466e5f6937fc4081.js"
+  "/tejesol/precache-manifest.1351f1755cc0ccd082c87a73a54afecd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tejesol-web"});
